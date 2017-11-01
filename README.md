@@ -1,7 +1,7 @@
 # HJBpaperDATE: 15 May 2017
 
 AIM: 
-  Trains FFNN for modulo-2 function using different algrithms and 
+  Trains FFNN using different algrithms and 
   compares their performance
 
 INPUT: 
@@ -13,7 +13,7 @@ OUTPUT:
   Trained NNs are saved in NN_<algo>
   Output of NNs for all patterns can be tested using test(NN_<algo>,data)
 
-PUBLICATION CIATION:
+PUBLICATION CITATION:
 If you're using this code, please cite our paper:
   @inproceedings{arora2017hjb,
   title={HJB equation based learning scheme for neural networks},
